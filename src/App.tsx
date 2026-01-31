@@ -1,7 +1,12 @@
-import Home from "./Page/Home";
+
+
 
 function App() {
-  return <Home />;
+  return (
+    <div>
+      <button>clik me</button>
+    </div>
+  )
 }
 
 export default App;
