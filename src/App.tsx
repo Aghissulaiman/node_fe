@@ -1,11 +1,13 @@
+import { Button } from "./components/ui/button";
 
 
 
 function App() {
   return (
-    <div>
-      <button>clik me</button>
-    </div>
+    <>
+      <Button> clik me</Button>
+    </>
+    
   )
 }
 
